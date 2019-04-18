@@ -23,3 +23,19 @@ permalink: /hacking/
 해킹을 하고 싶은 해커에 의하여 임시적으로 방화벽을 뚫고 있으나, 이외 모든 사람들에겐 막고 있습니다.
 
 해킹 시도는 본인이 제작한 사이트에서 하시길 간청드립니다.
+
+## English (Google Translate)
+
+Why did I hack?
+---
+Your behavior is based on a hacking technique known in the past, or you are guessing a bot rather than a human.
+
+MOEWORK site is strictly prohibited from inserting scripts or other actions, and it moves to the blocking page when it is caught.
+
+I did not hack!
+---
+Click 'Back Button' to prove your behavior.
+
+Cracking is a crime.
+---
+Do not hack or crack on this site.
