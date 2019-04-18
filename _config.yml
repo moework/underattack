@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "사람인지"
-title_right   : "확인중입니다" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+title_left    : "MOE"
+title_right   : "WORK" # default: ""
+description   : "모에워크 오류페이지 모음"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://moework.github.io/underattack # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
