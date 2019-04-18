@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 보안검증
-permalink: /security/
+permalink: /securies/
 ---
 
 ## 보안검증을 실시합니다.
