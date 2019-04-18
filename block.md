@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 연결이 차단되었습니다.
 permalink: /block/
 ---
 
